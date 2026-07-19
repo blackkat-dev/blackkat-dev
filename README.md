@@ -33,26 +33,24 @@
 <h2 align="center" id="about-me">📖 About Vynxcode</h2>
 <h3 align="center">Who I Am Behind The Code</h3>
 
-<p align="center">Hey! I’m <strong>Tiffany</strong>, online and professionally, I go by <strong>Vynxcode</strong>. I’m a <strong>front-end web developer</strong> and I'm working towards my <strong>full-stack certifications</strong>. I specialize in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, combining creativity and technical skills together to build modern, unique, user-friendly websites.</p>
+<p align="center">Hey! I’m Tiffany, founder and lead developer & designer of Vynxcode. I specialize in building modern, visually engaging front-end experiences with HTML, CSS, and JavaScript, while providing full visual branding from custom logos to graphic design. I’m also currently leveling up my skills toward a full-stack certification.</p>
 
-<p align="center">My hands-on experience so far includes building and maintaining a band's website, as well as developing personal and class projects to practice and showcase my skills. While most of my work has been small-scale, I'm eager to collaborate with both small businesses and larger companies to deliver fast, accessible, and visually engaging websites.</p>
+<p align="center">I don't just build websites, I combine creative visual strategy with clean code to engineer modern, user focused digital experiences. I have hands-on experience helping businesses create fast, accessible, and impactful online solutions that align perfectly with their brand goals.</p>
 
 <details align="center"><summary>View More</summary>
 <br>
-<p align="center">Fueled by sweet tea and a love for problem-solving, turning tricky problems into organized, functional code. I’m committed to delivering results that help clients grow their online presence, and I'm always exploring new tech to improve my skills, my craft, and the online visuals that capture an audience.</p>
+<p align="center">Fueled by sweet tea and a love for turning complex problems into organized, functional code, I am committed to delivering results that capture an audience and help clients grow their online presence.</p>
 
-<p align="center">I have experience with <strong>e-commerce</strong> and <strong>CMS platforms</strong>. My background includes <strong>Shopify</strong>, <strong>Wix</strong>, <strong>Ionos</strong>, <strong>Hostinger</strong>, and <strong>eBay</strong>. Where I managed product listings, optimized SEO, embedded custom code, and maintained websites with updates, new features, and more. Beyond development, I design logos, write SEO-driven content, and leverage AI tools to streamline workflows and enhance my coding solutions.</p>
-
-<p align="center">Explore my projects to see what I’ve been building!</p>
+<p align="center">Check out my <a href="#portfolio">projects</a> below to see how I turn ideas into unique digital experiences.</p>
 </details>
 
 ---
 
-<p align="center"><strong>Location: </strong>USA (Open to Remote & Freelance Work)</p>
+<p align="center"><strong>Location: </strong>Florida, USA</p>
 
 ---
 
-<h2 align="center" id="what-i-do">🌐 What I Do</h2>
+<h2 align="center" id="what-i-do">🌐 What I Do & How I Work</h2>
 
 <p align="center">I design and build modern, responsive websites that are fast, accessible, and customized to each client’s goals. My work ranges from freelance projects, client sites such as band websites and business storefronts, to personal projects like social platforms and creative web experiments. I’m open to freelance projects, full-time web development opportunities, and creative collaborations, including open-source contributions.</p>
 
@@ -141,12 +139,13 @@
 <br>
 <br>
 
-<h2 align="center" id="tools--platforms">🧰 Tools & Platforms</h2>
+<h2 align="center" id="tools--platforms">🧰 Tech Ecosystem</h2>
 
 #### 🧠 Primary Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=openai&logoColor=FF1414)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=openai&logoColor=FF1414)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=openai&logoColor=FF1414)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -156,9 +155,15 @@
 
 ---
 
+#### 💻 Performance & Analytics
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44336?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+---
+
 #### 💻 Platforms & AI
 ![Hostinger](https://img.shields.io/badge/Hostinger-000000?style=for-the-badge&logo=hostinger&logoColor=FF1414)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FF1414)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
@@ -166,26 +171,33 @@
 <details>
 <summary><strong>View full toolkit</strong></summary>
 
-### Primary Tools
+### Development & Version Control
 - `VS Code`
 - `Git`
 - `GitHub`
+
+### Deployment
+- `Vercel`
 
 ### Design & UX
 - `Canva`
 - `Figma`
 
-### Hosting & Platforms
+### Website Builders & Hosting
 - `Hostinger`
 - `Ionos`
 - `Shopify`
 - `Wix`
+- `Wordpress`
+- `Porkbun`
 
-### Collaboration & Project Management
-- `Trello`
+### Collaboration & Communication
 - `Discord`
-- `Zoom`
 - `Google Meet`
+
+### Productivity Tools
+- `Trello`
+- `Microsoft 365`
 
 ### Cloud & Storage
 - `Google Drive`
@@ -195,17 +207,15 @@
 ### AI & Automation
 - `ChatGPT`
 - `Claude`
-- `Copilot`
 
 ### Media & Content
-- `Pixlr`
 - `DaVinci Resolve`
-- `Clipchamp`
 - `YouTube`
 
-### Analytics & Research
+### Performance & Analytics
 - `Google Analytics`
-- `Google Trends`
+- `Google Console`
+- `Lighthouse`
 
 </details>
 <br>
@@ -231,6 +241,8 @@ Here are some of my projects:
 - [`Temporary Portfolio`](https://vynxcode-ts.github.io/personal-portfolio-project/) - This is a simple portfolio project to showcase my skills and projects. My main portfolio is currently in progress. 
   
 - `**Main Portfolio coming soon**` – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
+
+- - [`Vynxcode Website`](https://vynxcode.com) - This is a the Vynxcode website coming soon page. Our main website is currently in development. To get notified when we launch signup.
 
 - [`Band Client Website`](https://intheshadowsband.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
 
