@@ -242,7 +242,7 @@ Here are some of my projects:
   
 - `**Main Portfolio coming soon**` – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
 
-- - [`Vynxcode Website`](https://vynxcode.com) - This is a the Vynxcode website coming soon page. Our main website is currently in development. To get notified when we launch signup.
+- [`Vynxcode Website`](https://vynxcode.com) - This is a the Vynxcode website coming soon page. Our main website is currently in development. To get notified when we launch signup.
 
 - [`Band Client Website`](https://intheshadowsband.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
 
@@ -282,10 +282,9 @@ Here are some of my projects:
 <h2 align="center" id="contact"> 📫 Connect With Me</h2>
 <p align="center">I’m open to freelance projects, full-time opportunities, and creative collaborations. Feel free to reach out, I’d love to hear from you!</p>
 
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1414&logoOnly=true)](mailto:vynxcode@gmail.com) 
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1414&logoOnly=true)](mailto:contact@vynxcode.com) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1414&logoOnly=true)](https://www.linkedin.com/company/vynxcode/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1414&logoOnly=true)](https://github.com/vynxcode-ts)
-[![Upwork](https://img.shields.io/badge/-Upwork-000000?style=for-the-badge&logo=upwork&logoColor=FF1414)](https://www.upwork.com/freelancers/~01ed46eaa1f076a1e0?mp_source=share)
 <br>
 ---
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=FF1414&logoOnly=true)](https://www.threads.com/@vynxcode) 
