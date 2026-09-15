@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center";>Tiffany Schuman | Vynxcode</h2>
+<h2 align="center";>Tiffany Schuman | Blackkat</h2>
 
 <h4 align="center">Web Developer & Designer</h4>
 <br>
@@ -30,10 +30,10 @@
   <img src="https://img.shields.io/badge/dynamic/json?color=FF1414&label=Repos&query=public_repos&url=https://api.github.com/users/vynxcode-ts&style=for-the-badge" />
 </p>
 
-<h2 align="center" id="about-me">📖 About Vynxcode</h2>
+<h2 align="center" id="about-me">📖 About Blackkat</h2>
 <h3 align="center">Who I Am Behind The Code</h3>
 
-<p align="center">Hey! I’m Tiffany, founder and lead developer & designer of Vynxcode. I specialize in building modern, visually engaging front-end experiences with HTML, CSS, and JavaScript, while providing full visual branding from custom logos to graphic design. I’m also currently leveling up my skills toward a full-stack certification.</p>
+<p align="center">Hey! I’m Tiffany aka Blackkat, founder and lead developer & designer of Vynxcode. I specialize in building modern, visually engaging front-end experiences with HTML, CSS, and JavaScript, while providing full visual branding from custom logos to graphic design. I’m also currently leveling up my skills toward a full-stack certification.</p>
 
 <p align="center">I don't just build websites, I combine creative visual strategy with clean code to engineer modern, user focused digital experiences. I have hands-on experience helping businesses create fast, accessible, and impactful online solutions that align perfectly with their brand goals.</p>
 
