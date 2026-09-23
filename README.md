@@ -253,28 +253,28 @@ Here are some of my projects:
   <br>
   
 ---
-  1. 🛍️ [`Vamp Bags Product Landing Page`](https://vynxcode-ts.github.io/vamp-bags-product-landing-page/) <br>
+  1. 🛍️ [`Blackkat | Product Landing Page Vamp Bags`](https://blackkat-dev.github.io/blackkat-product-landing-page-vamp-bags/) <br>
   A modern product showcase layout built with HTML, CSS, and responsive design principles. Features sections for a product lineup, embedded video, email signup, and responsive layout. Designed to fulfill all FreeCodeCamp user stories with clean, accessible structure.
 ---
-  2. 📚 [`Vynxcode's Technical Documentation Page`](https://vynxcode-ts.github.io/vynxcodes-technical-documentation-page/) <br>
+  2. 📚 [`Blackkat | Technical Documentation`](https://blackkat-dev.github.io/blackkat-technical-documentation/) <br>
     A structured documentation-style page demonstrating clean typography, smooth organized navigation, and responsive formatting. Built to highlight technical writing and page organization skills. Currently being refined for clarity and layout precision.
 ---
-  3. 🕯️ [`Vlad Tepes Tribute Page`](https://vynxcode-ts.github.io/vlad-tepes-tribute-page/) <br>
+  3. 🕯️ [`Blackkat | Vlad Tepes Tribute Page`](https://blackkat-dev.github.io/blackkat-vlad-tepes-tribute-page/) <br>
     A tribute to a historical figure built for FreeCodeCamp’s Responsive Web Design certification. Designed with semantic HTML and simple yet elegant visual styling. Focuses on readability, alignment, and responsive design.
 ---
-  4. 🧾 [`Vynxcode's Survey Form`](https://vynxcode-ts.github.io/vynxcodes-survey-form/) <br>
+  4. 🧾 [`Blackkat | Survey Form`](https://blackkat-dev.github.io/blackkat-survey-form/) <br>
     An early form-based project demonstrating form structure, user input validation, mobile responsiveness, and visual consistency. One of my first builds, marking the foundation of my web development journey.
 ---
-  5. 🔢 [`Vynxcode's Roman Numeral Converter`](https://vynxcode-ts.github.io/vynxcodes-roman-numeral-converter/) <br>
+  5. 🔢 [`Blackkat | Roman Numeral Converter`](https://blackkat-dev.github.io/blackkat-roman-numeral-converter/) <br>
     A functional JavaScript-based utility that converts numbers into Roman numerals with built-in input validation and clean, user-friendly design.
 ---
-  6. 🔢 [`Vynxcode's Palindrome Checker`](https://vynxcode-ts.github.io/vynxcodes-palindrome-checker/) <br>
+  6. 🔢 [`Blackkat | Palindrome Checker`](https://blackkat-dev.github.io/blackkat-palindrome-checker/) <br>
     A JavaScript-based utility with a functionality that checks if a word is a palindrome with built-in input validation and a user-friendly, responsive design.
 ---
-  7. 🔢 [`Vynxcode's Telephone Number Validator`](https://vynxcode-ts.github.io/vynxcodes-telephone-number-validator/) <br>
+  7. 🔢 [`Blackkat | Telephone Number Validator`](https://blackkat-dev.github.io/blackkat-telephone-number-validator/) <br>
     A functional JavaScript-based utility that validates phone numbers with built-in input validation and a modern, visually unique, responsive design.
 ---
-  8. 💼 [`Personal Portfolio`](https://vynxcode-ts.github.io/personal-portfolio-project/) - This is a simple portfolio project to showcase my skills and projects. My main portfolio is currently in progress. 
+  8. 💼 [`Blackkat Personal Portfolio`](https://blackkat-dev.github.io/blackkat-personal-portfolio/) - This is a simple portfolio project to showcase my skills and projects. My main portfolio is currently in progress. 
   <p align="center">Check back for more updates I post projects quite often.</p>
   
 ---
